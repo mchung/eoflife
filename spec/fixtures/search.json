@@ -1,0 +1,36 @@
+{
+    "results":
+    [
+        {
+            "title":"Ursus",
+            "id":14349,
+            "content":"Ursus Linnaeus, 1758",
+            "link":"http://www.eol.org/pages/14349"
+        },
+        {
+            "title":"Megathymus ursus ursus Poling 1902",
+            "id":2683230,
+            "content":"Megathymus ursus ursus Poling 1902",
+            "link":"http://www.eol.org/pages/2683230"
+        },
+        {
+            "title":"Ursus arctor",
+            "id":10695434,
+            "content":"Ursus arctor\n\n",
+            "link":"http://www.eol.org/pages/10695434"
+        },
+        {
+            "title":"Ursus ingressus",
+            "id":12136362,
+            "content":"Ursus ingressus\n\n",
+            "link":"http://www.eol.org/pages/12136362"
+        }
+    ],
+    "totalResults":126,
+    "self":"http://www.eol.org/api/search/Ursus.json?page=1",
+    "itemsPerPage":30,
+    "last":"http://www.eol.org/api/search/Ursus.json?page=5",
+    "startIndex":1,
+    "first":"http://www.eol.org/api/search/Ursus.json?page=1",
+    "next":"http://www.eol.org/api/search/Ursus.json?page=2"
+}

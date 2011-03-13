@@ -1,0 +1,378 @@
+{
+    "taxonConcepts":
+    [
+        {
+            "sourceIdentfier":"154396",
+            "nameAccordingTo":"Integrated Taxonomic Information System (ITIS)",
+            "scientificName":"Apis mellifera Linnaeus 1758",
+            "identifier":20451196
+        },
+        {
+            "sourceIdentfier":"1926761",
+            "nameAccordingTo":"Species 2000 & ITIS Catalogue of Life: Annual Checklist 2009",
+            "scientificName":"Apis mellifera Linnaeus 1758",
+            "identifier":25435626
+        },
+        {
+            "sourceIdentfier":"7460",
+            "nameAccordingTo":"NCBI Taxonomy",
+            "scientificName":"Apis mellifera",
+            "identifier":29080011
+        }
+    ],
+    "dataObjects":
+    [
+        {
+            "mediaURL":"http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Honeybee-27527-1.jpg/460px-Honeybee-27527-1.jpg",
+            "modified":"0000-00-00 00:00:00",
+            "title":"File:Honeybee-27527-1.jpg",
+            "license":"http://creativecommons.org/licenses/publicdomain/",
+            "mimeType":null,
+            "eolMediaURL":"http://content8.eol.org/content/2009/09/15/14/65086_large.jpg",
+            "language":"en",
+            "dataType":"http://purl.org/dc/dcmitype/StillImage",
+            "agents":
+            [
+                {
+                    "role":"provider",
+                    "homepage":"http://commons.wikimedia.org/",
+                    "full_name":"Wikimedia Commons"
+                },
+                {
+                    "role":"photographer",
+                    "homepage":"http://commons.wikimedia.org/wiki/User:Ken_Thomas",
+                    "full_name":"Ken Thomas"
+                }
+            ],
+            "eolThumbnailURL":"http://content9.eol.org/content/2009/09/15/14/65086_medium.jpg",
+            "description":"<a href='http://en.wikipedia.org/wiki/Apis mellifera ligustica'>Italian honeybee</a> (<i>Apis mellifera ligustica</i>) <a href='http://en.wikipedia.org/wiki/Worker_bee'>worker</a>.<br>Photo taken with a <a href='http://en.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ50'>Panasonic Lumix DMC-FZ50</a> (with a <a href='http://en.wikipedia.org/wiki/Tiffen'>Tiffen</a> +4 <a href='http://en.wikipedia.org/wiki/Close-up_lens'>Dioptic Lens</a>) in <a href='http://en.wikipedia.org/wiki/Caldwell_County%2C_North_Carolina'>Caldwell County, USA</a>.",
+            "source":"http://commons.wikimedia.org/wiki/File:Honeybee-27527-1.jpg",
+            "identifier":"5bd05f95cc663ef658a6cbd33e8f3e8d",
+            "references":
+            [
+            ],
+            "created":"0000-00-00 00:00:00"
+        },
+        {
+            "mediaURL":"http://farm3.static.flickr.com/2619/3730360050_1336b71208.jpg",
+            "modified":"0000-00-00 00:00:00",
+            "latitude":"39.989368",
+            "location":"Yorklyn, Pennsylvania, United States",
+            "title":"Honey Bee on Mountain Mint",
+            "license":"http://creativecommons.org/licenses/by/2.0/",
+            "mimeType":"image/jpeg",
+            "eolMediaURL":"http://content10.eol.org/content/2009/08/26/01/47113_large.jpg",
+            "language":"en",
+            "dataType":"http://purl.org/dc/dcmitype/StillImage",
+            "agents":
+            [
+                {
+                    "role":"provider",
+                    "homepage":"http://www.flickr.com/groups/encyclopedia_of_life",
+                    "full_name":"EOL Images Group on Flickr"
+                },
+                {
+                    "role":"photographer",
+                    "homepage":"http://www.flickr.com/photos/38875278@N08",
+                    "full_name":"John Baker"
+                }
+            ],
+            "eolThumbnailURL":"http://content1.eol.org/content/2009/08/26/01/47113_medium.jpg",
+            "longitude":"-76.648567",
+            "description":"A honey bee (Apis mellifera) visiting a mountain mint (Pycnanthemum muticum) blossom.&nbsp;&nbsp;The Pennsylvania Department of Agriculture is conducting a citizen scientist native bee monitoring project that will ultimately allow us ( The Pa Dept of Ag) to make reccommendations to gardeners as to what kind of plants they should plant in a garden to make it pollinator friendly.&nbsp;&nbsp;The project is in part funded by Haagen--Dazs.  For more information please visit:&nbsp;<a href=\"http://www.helpthehoneybees.com\" rel=\"nofollow\">www.helpthehoneybees.com</a>&nbsp;&nbsp;For information on the Penn State Master Gardeners,
+             please visit:  &nbsp;horticulture.psu.edu/extension/mg&quot;",
+            "source":"http://www.flickr.com/photos/38875278@N08/3730360050/",
+            "identifier":"d72801627bf4adf1a38d9c5f10cc767f",
+            "references":
+            [
+            ],
+            "created":"2009-07-12 11:13:19"
+        },
+        {
+            "modified":"0000-00-00 00:00:00",
+            "title":"Biology",
+            "rights":"Copyright Wildscreen 2003-2008",
+            "license":"http://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "mimeType":"text/html",
+            "language":"en",
+            "dataType":"http://purl.org/dc/dcmitype/Text",
+            "agents":
+            [
+                {
+                    "role":"provider",
+                    "homepage":"http://www.arkive.org/",
+                    "full_name":"ARKive"
+                }
+            ],
+            "subject":"http://rs.tdwg.org/ontology/voc/SPMInfoItems#TaxonBiology",
+            "rightsHolder":"Wildscreen",
+            "description":"The hive structure consists of wax 'honeycombs',
+             each honeycomb is made of small cells,
+             which are used to store food or to rear the brood. Bees feed on nectar and pollen taken from flowers; stores of honey (regurgitated nectar) and pollen (gathered on the legs in special 'pollen baskets') see them through the winter (5). Honey bees have a complex system of communication; when a good supply of flowers has been discovered,
+             a returning forager can convey the location of the food to other workers by means of special dances. The discovery of a good foraging location is announced by the 'round dance' in which the forager circles around rapidly,
+             while the 'waggle dance',
+             involving a rapid movement of the tail,
+             contains information on the distance and direction of the flowers in relation to the hive,
+             using the sun as a compass (5).&nbsp;The queen is the only bee within the colony to lay eggs,
+             the workers care for the brood,
+             and carry out many other duties for the hive,
+             including foraging and cleaning (5). The queen mates just once,
+             on a 'nuptial flight' during spring,
+             and stores enough sperm inside her body to allow her to fertilise her eggs for the rest of her life. Eggs are laid from March to October; each egg is deposited into a cell,
+             and a small,
+             white larva emerges after around 3 days. Workers provide the larva with food; after 6 days the pupal stage will develop,
+             and the workers cap the cells containing fully developed larvae with wax. The adult bee will climb out of the cell 12 days later.  Drones (males) are produced from unfertilised eggs,
+             and appear in the colony during spring and early summer; they take three days longer to develop into adults than workers,
+             and are ejected from the colony later in the year by the workers (5). Both worker and queen bee larvae are fed on a rich liquid known as 'royal jelly' in the first days of life. Workers are then fed on pollen and nectar,
+             but larvae that continue to be given royal jelly develop into queens. The first new queen to emerge may sting the other developing queens to death. After mating she may either take the place of her mother (who may have departed the hive in a swarm,
+             taking half of the workers with her),
+             or establish a new colony (5).",
+            "source":"http://www.arkive.org/honey-bee/apis-mellifera/",
+            "identifier":"8ad9be27871b41c112353d179130cf27",
+            "references":
+            [
+            ],
+            "created":"0000-00-00 00:00:00"
+        },
+        {
+            "modified":"0000-00-00 00:00:00",
+            "title":"Groups vote on hive locations: honeybees",
+            "rights":"\u00a92008-2009,
+             The Biomimicry Institute",
+            "license":"http://creativecommons.org/licenses/by-nc/3.0/",
+            "mimeType":"text/html",
+            "language":"en",
+            "dataType":"http://purl.org/dc/dcmitype/Text",
+            "agents":
+            [
+                {
+                    "role":"provider",
+                    "homepage":"http://www.AskNature.org/",
+                    "full_name":"AskNature"
+                },
+                {
+                    "role":"editor",
+                    "homepage":"",
+                    "full_name":"Aron Kisdi"
+                }
+            ],
+            "subject":"http://rs.tdwg.org/ontology/voc/SPMInfoItems#GeneralDescription",
+            "rightsHolder":"The Biomimicry Institute",
+            "description":"&nbsp;              <p><strong>Honeybees in a colony select a new hive location via range voting.</strong></p>&nbsp;              <div><a href=\"http://www.asknature.org/browse/type/aof/selected/strategy%7C921\">Maintain community</a> &gt; <a href=\"http://www.asknature.org/browse/type/aof/selected/strategy%7C921%7C946\">Cooperate and compete</a> &gt; <a href=\"http://www.asknature.org/browse/type/aof/selected/strategy%7C921%7C946%7C951\"><strong>Within the same species</strong></a>&nbsp;</div>&nbsp;<br/>&nbsp;              <a href=\"http://www.youtube.com/watch?v=NFdUahlyHGI\" target=\"_blank\"><img class=\"wiser left\" src=\"http://www.asknature.org/images/icons/play_video.png\" alt=\"\" width=\"33\" height=\"33\" /></a> <a href=\"http://www.youtube.com/watch?v=NFdUahlyHGI\" target=\"_blank\"> View this animation of bee voting</a>,
+             a collaboration of Sweet Onion Creations and The Biomimicry Institute.<br /><br /><br />\"Thomas Seeley,
+             a biologist at Cornell University,
+             has been looking into the uncanny ability of honeybees to make good decisions. With as many as 50,
+            000 workers in a single hive,
+             honeybees have evolved ways to work through individual differences of opinion to do what's best for the colony. If only people could be as effective in boardrooms,
+             church committees,
+             and town meetings,
+             Seeley says,
+             we could avoid problems making decisions in our own lives. <br /><br />\"During the past decade,
+             Seeley,
+             Kirk Visscher of the University of California,
+             Riverside,
+             and others have been studying colonies of honeybees (<em>Apis mellifera</em>) to see how they choose a new home. In late spring,
+             when a hive gets too crowded,
+             a colony normally splits,
+             and the queen,
+             some drones,
+             and about half the workers fly a short distance to cluster on a tree branch. There the bees bivouac while a small percentage of them go searching for new real estate. Ideally,
+             the site will be a cavity in a tree,
+             well off the ground,
+             with a small entrance hole facing south,
+             and lots of room inside for brood and honey. Once a colony selects a site,
+             it usually won't move again,
+             so it has to make the right choice.<br /><br />\"To find out how,
+             Seeley's team applied paint dots and tiny plastic tags to identify all 4,
+            000 bees in each of several small swarms that they ferried to Appledore Island,
+             home of the Shoals Marine Laboratory. There,
+             in a series of experiments,
+             they released each swarm to locate nest boxes they'd placed on one side of the half-mile-long (one kilometer) island,
+             which has plenty of shrubs but almost no trees or other places for nests.<br /><br />\"In one test they put out five nest boxes,
+             four that weren't quite big enough and one that was just about perfect. Scout bees soon appeared at all five. When they returned to the swarm,
+             each performed a waggle dance urging other scouts to go have a look. (These dances include a code giving directions to a box's location.) The strength of each dance reflected the scout's enthusiasm for the site. After a while,
+             dozens of scouts were dancing their little feet off,
+             some for one site,
+             some for another,
+             and a small cloud of bees was buzzing around each box.<br /><br />\"The decisive moment didn't take place in the main cluster of bees,
+             but out at the boxes,
+             where scouts were building up. As soon as the number of scouts visible near the entrance to a box reached about 15&mdash;a threshold confirmed by other experiments&mdash;the bees at that box sensed that a quorum had been reached,
+             and they returned to the swarm with the news. <br /><br />\"'It was a race,
+            ' Seeley says. 'Which site was going to build up 15 bees first?' <br /><br />\"Scouts from the chosen box then spread through the swarm,
+             signaling that it was time to move. Once all the bees had warmed up,
+             they lifted off for their new home,
+             which,
+             to no one's surprise,
+             turned out to be the best of the five boxes.<br /><br />\"The bees' rules for decision-making&mdash;seek a diversity of options,
+             encourage a free competition among ideas,
+             and use an effective mechanism to narrow choices&mdash;so impressed Seeley that he now uses them at Cornell as chairman of his department.\" (Miller 2007:4-5)<br /><br/>&nbsp;              <a class=\"external_link\" href=\"http://www.asknature.org/strategy/209b5fa3de3573d76df73854f1cd9dba\">Learn more about this functional adaptation.</a>",
+            "source":"http://www.asknature.org/strategy/209b5fa3de3573d76df73854f1cd9dba",
+            "identifier":"45deb1b01be4aa3cbfa93a2b8c7bbd10",
+            "references":
+            [
+                "Miller,
+                 Peter.  July. The Genius of Swarms.  National Geographic."
+            ],
+            "created":"2008-11-02 06:18:53"
+        },
+        {
+            "mediaURL":"http://www.flickr.com/apps/video/stewart.swf?v=71377&photo_id=3236419704&photo_secret=68be62ac11",
+            "modified":"0000-00-00 00:00:00",
+            "latitude":"37.287574",
+            "location":"Faro,
+             Portugal",
+            "title":"Abelhas numa Azinheira // Honey Bees on a Holm Oak (Apis mellifera)",
+            "license":"http://creativecommons.org/licenses/by-nc-sa/2.0/",
+            "mimeType":"video/x-flv",
+            "language":"en",
+            "dataType":"http://purl.org/dc/dcmitype/MovingImage",
+            "agents":
+            [
+                {
+                    "role":"provider",
+                    "homepage":"http://www.flickr.com/groups/encyclopedia_of_life",
+                    "full_name":"EOL Images Group on Flickr"
+                },
+                {
+                    "role":"photographer",
+                    "homepage":"http://www.flickr.com/photos/58213213@N00",
+                    "full_name":"Valter Jacinto"
+                }
+            ],
+            "longitude":"-7.500743",
+            "description":"<b>Location</b>: Azinhal &gt; Castro Marim &gt; Algarve &gt; Portugal&nbsp;&nbsp;<b>Recording Date</b>: January 24,
+             2009&nbsp;",
+            "source":"http://www.flickr.com/photos/valter/3236419704/",
+            "identifier":"e70cb321fd2933d4db48b6c41271068b",
+            "references":
+            [
+            ],
+            "created":"2009-01-24 11:44:09"
+        },
+        {
+            "mediaURL":"http://www.flickr.com/apps/video/stewart.swf?v=71377&photo_id=3272354945&photo_secret=5d62f7dda0",
+            "modified":"0000-00-00 00:00:00",
+            "latitude":"-27.6223",
+            "location":"Hodgson Vale,
+             Queensland,
+             Australia",
+            "title":"Apis mellifera (European Honeybee) - Introduced",
+            "license":"http://creativecommons.org/licenses/by-nc-sa/2.0/",
+            "mimeType":"video/x-flv",
+            "language":"en",
+            "dataType":"http://purl.org/dc/dcmitype/MovingImage",
+            "agents":
+            [
+                {
+                    "role":"provider",
+                    "homepage":"http://www.flickr.com/groups/encyclopedia_of_life",
+                    "full_name":"EOL Images Group on Flickr"
+                },
+                {
+                    "role":"photographer",
+                    "homepage":"http://www.flickr.com/photos/32005048@N06",
+                    "full_name":"Arthur Chapman"
+                }
+            ],
+            "longitude":"151.9376",
+            "description":"European Honeybee (Apis mellifera) - an introduced species near Toowoomba,
+             Queensland,
+             Australia. Photographed on 3 February 2005.&nbsp;&nbsp;High quality .avi files are held and may be available by individual request.",
+            "source":"http://www.flickr.com/photos/arthur_chapman/3272354945/",
+            "identifier":"24cd66d45036306efa84c5792ba99c14",
+            "references":
+            [
+            ],
+            "created":"2005-02-03 15:25:07"
+        }
+    ],
+    "scientificName":"Apis mellifera Linnaeus 1758",
+    "identifier":1045608,
+    "vernacularNames":
+    [
+        {
+            "vernacularName":"\u041c\u0435\u0434\u043e\u043d\u043e\u0441\u043d\u0430 \u043f\u0447\u0435\u043b\u0430",
+            "language":"bg"
+        },
+        {
+            "vernacularName":"V\u010dela medonosn\u00e1",
+            "language":"cs"
+        },
+        {
+            "vernacularName":"Honningbi",
+            "language":"da"
+        },
+        {
+            "vernacularName":"honey bee",
+            "language":"en"
+        },
+        {
+            "vernacularName":"Tarhamehil\u00e4inen",
+            "language":"fi"
+        },
+        {
+            "vernacularName":"abeille domestique",
+            "language":"fr"
+        },
+        {
+            "vernacularName":"Honigbiene",
+            "language":"de"
+        },
+        {
+            "vernacularName":"\u05d3\u05d1\u05d5\u05e8\u05ea \u05d4\u05d3\u05d1\u05e9",
+            "language":"he"
+        },
+        {
+            "vernacularName":"M\u00e9zel\u0151 m\u00e9h",
+            "language":"hu"
+        },
+        {
+            "vernacularName":"Alib\u00fdfluga",
+            "language":"is"
+        },
+        {
+            "vernacularName":"ape del miele",
+            "language":"it"
+        },
+        {
+            "vernacularName":"\u30bb\u30a4\u30e8\u30a6\u30df\u30c4\u30d0\u30c1",
+            "language":"ja"
+        },
+        {
+            "vernacularName":"Eiropas medus bite",
+            "language":"lv"
+        },
+        {
+            "vernacularName":"Europeisk honningbie",
+            "language":"nn"
+        },
+        {
+            "vernacularName":"Pszczo\u0142a miodna",
+            "language":"pl"
+        },
+        {
+            "vernacularName":"abelha do mel",
+            "language":"pt"
+        },
+        {
+            "vernacularName":"\u041c\u0435\u0434\u043e\u043d\u043e\u0441\u043d\u0430\u044f \u043f\u0447\u0435\u043b\u0430",
+            "language":"ru"
+        },
+        {
+            "vernacularName":"V\u010dela medonosn\u00e1",
+            "language":"sk"
+        },
+        {
+            "vernacularName":"Apis mellifera",
+            "language":"es"
+        },
+        {
+            "vernacularName":"\u0411\u0434\u0436\u043e\u043b\u0430 \u043c\u0435\u0434\u043e\u043d\u043e\u0441\u043d\u0430",
+            "language":"uk"
+        },
+        {
+            "vernacularName":"Huningbij",
+            "language":"fy"
+        }
+    ]
+}
