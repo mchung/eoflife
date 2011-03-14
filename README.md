@@ -3,13 +3,16 @@ eoflife - API for EOL.org/API
 
 ## Description
 
-The eoflife rubygem is a wrapper for eol.org/api. API development is currently a work in progress.
+Eoflife is a Ruby wrapper for the [EOL API](http://www.eol.org/api).  The eoflife gem provides an easy-to-use wrapper for EOL's XML and JSON APIs.
+
+API development is currently a work in progress.
 
 ## Synopsis
 
     eol = Eoflife::Client.new
-    eol.ping #=> Hash response
-    eol.search("Western Honeybee") #=> Hash response
+    eol.ping #=> Response
+
+    eol.search("Western Honeybee") #=> Response
 
 ## Getting Started
 
@@ -35,7 +38,7 @@ Add this to your `Gemfile`:
 
 ## Thanks
 
- * www.eol.org
+ * [EOL](www.eol.org)
 
 ## See Also
 
